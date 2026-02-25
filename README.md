@@ -1,4 +1,4 @@
-# Inventory-Management-Project-Product-DEMO-
+# Johnny's Product Inventory Management Project
 GitHub repository containing the necessary files for a simple command-line product management system demo via JDBC and MySQL Workbench. 
 
 # Project Features:
