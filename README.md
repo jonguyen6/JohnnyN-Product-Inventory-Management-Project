@@ -18,3 +18,8 @@ Before running the project, make sure you have the following installed:
 1. Run the SQL file in MySQL Workbench. It should already contain lines of code for sample data.
 2. Open the java files in your IDE of choice, and then update the Database connection credentials in DataBaseConnection.java if needed.
 3. Compile and run the main java file.
+
+# Future Changes to be added:
+- Transaction tracking for sales and restocks
+- Supplier management module
+- User authentication system
