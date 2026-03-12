@@ -1,5 +1,5 @@
 # Johnny's Product Inventory Management Project
-GitHub repository containing the necessary files for a simple command-line product management system demo via JDBC and MySQL Workbench. 
+GitHub repository containing the necessary files for a simple command-line product management system app via JDBC and MySQL Workbench. 
 
 # Project Features:
 - View all products
